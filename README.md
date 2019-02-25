@@ -1,4 +1,10 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# facebookLogin
+
+Facebook Login Example on React
+
+## Authors
+
+* **[Raul Saez](https://github.com/mrseek)**
 
 ## Available Scripts
 
